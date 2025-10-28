@@ -5,7 +5,7 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Index from "./pages/Index";
 import AboutUsPage from "./pages/AboutUsPage";
-import ThrieBeamPage from "./pages/ThrieBeamPage";
+import ThrieBeamPage from "./pages/ThrieBeamPage.tsx";
 import InquiryPage from "./pages/InquiryPage";
 import ContactUsPage from "./pages/ContactUsPage";
 import OurProducts from "./pages/OurProducts";
